@@ -1,11 +1,2 @@
-eno=int(input("enter employee number:"))
-ename=(input("enter employee name:"))
-esal=float(input("enter employee salary:"))
-eaddress=(input(" enter employee address:"))
-estate=bool(input("enter employee marriage status:[True:False]"))
-print("please confirm information..")
-print("employee number:",eno)
-print("employee name:",ename)
-print("employee salary:",esal)
-print("employee address:",eaddress)
-print("employee mag:",estate)
+input("enter 2 numbers:").split()
+1
