@@ -9,4 +9,3 @@ print("employee name:",ename)
 print("employee salary:",esal)
 print("employee address:",eaddress)
 print("employee mag:",estate)
-
