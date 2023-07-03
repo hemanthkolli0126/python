@@ -89,10 +89,16 @@
 # for x in l:
 #     print(x)
 
-# 
-y=[10,20,30,40]
-for x in y:
-    print(x)
+
+
+x=int(input("enter the number:"))
+y=int(input("enter the number:"))
+if x+y>=50:
+    print("its greater than 50")
+else:
+    print("its less that 50")
+    
+    
 
 
 
