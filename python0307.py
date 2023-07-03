@@ -91,15 +91,81 @@
 
 
 
-x=int(input("enter the number:"))
-y=int(input("enter the number:"))
-if x+y>=50:
-    print("its greater than 50")
-else:
-    print("its less that 50")
+# x=int(input("enter the number:"))
+# y=int(input("enter the number:"))
+# if x+y>=50:
+#     print("its greater than 50")
+# else:
+#     print("its less that 50")
     
     
 
+# s=input("enter the string:")
+# i=0
+# for x in s:
+#     print("the character present at", i ,"index is ",x)
+#     i=i+1
 
 
 
+# for x in range(10):
+#     print("hello")
+
+
+# for x in range(10):
+#     print(x)
+
+
+
+# for x in range(21):
+#     if x%2!=1:
+#         print(x)
+
+
+# for x in range(21):
+#     if x%2!=0:
+#         print(x)
+
+
+
+# for x in range(1,21,2):
+#     print(x)
+
+ 
+ 
+# for x in range(1,21,5):
+#     print(x)
+       
+       
+       
+# for x in range (10,0,-1):
+#     print(x)    
+    
+    
+
+# l=eval(input("enter some list:"))
+# sum=0
+# for x in l:
+#     sum=sum+x
+# print("the sum", sum)     
+
+
+
+
+
+# l=eval(input("enter some list:"))
+# sum=1
+# for x in l:
+#     sum=sum*x
+# print("the sum", sum)   
+    
+
+
+# x=int(input("enter the number:"))
+# while x<=10:
+#     print(x)
+#     x+=1
+    
+
+
+    
