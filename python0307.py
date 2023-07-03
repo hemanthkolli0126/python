@@ -84,7 +84,16 @@
 # print("the number of letters are:", count)
 
 
-l=[10,20,30,40]
-for x in l:
+
+# l=[10,20,30,40]
+# for x in l:
+#     print(x)
+
+# 
+y=[10,20,30,40]
+for x in y:
     print(x)
+
+
+
 
