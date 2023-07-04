@@ -124,8 +124,83 @@
 
 
 
-x=int(input("enter the number:"))
-for i in range(5,1):
-    for j in range(5,1):
-        print(j , end="")
-    print()   
+# i=0
+# while True:
+#     print("hello")
+#     i+=1
+#     if i == 5:
+#         break
+
+
+
+
+# for i in range(10):
+#     if i == 7:
+#         print("process is enough break")
+#         break
+#     print(i)    
+
+
+
+# l=eval(input("enter the list:"))
+# for i in l:
+#     if i>500:
+#         print("sorry we cant process this order")
+#         break
+#     print("processing",i)
+
+
+
+# for i in range(10):
+#     if i % 2 == 0:
+#         continue
+#     print(i)
+
+
+
+# cart=[10,20,30,600,60,70,90]
+# for item in cart:
+#     if item>500:
+#         print("sorry we cannot process this item:", item)
+#         break
+#     print("processing item :", item)
+
+
+
+# cart=[10,20,30,600,60,70,90]
+# for item in cart:
+#     if item>500:
+#         print("sorry we cannot process this item:", item)
+#         continue
+#     print("processing item :", item)
+    
+    
+
+# numbers=[10,20,0,5,0,30]
+# for n in numbers:
+#     if n == 0:
+#         print("not divisable")
+#         continue
+#     print("100/{}={}".format(n,100/n))
+   
+
+
+# cart=[10,20,30,60,70,90]
+# for item in cart:
+#     if item>500:
+#         print("sorry we cannot process this item:", item)
+#         break
+#     print("processing item :", item)
+# else:
+#     print("congrats all items are processed")
+
+
+
+cart=[10,20,30,600,70,90]
+for item in cart:
+    if item>500:
+        print("sorry we cannot process this item:", item)
+        break
+    print("processing item :", item)
+else:
+    print("congrats all items are processed")
