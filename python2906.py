@@ -148,12 +148,12 @@
     
     
 
-n=int(input(""))
-if  n%2 != 0 :
-    print("wired")
-elif  n%2 == 0 and 2<=n<=5:
-    print("Not wired")
-elif  n%2 == 0 and 6<=n<=20:
-    print("wired")
-elif n%2 == 0 and n>20:
-    print("wired")     
+# n=int(input(""))
+# if  n%2 != 0 :
+#     print("wired")
+# elif  n%2 == 0 and 2<=n<=5:
+#     print("Not wired")
+# elif  n%2 == 0 and 6<=n<=20:
+#     print("wired")
+# elif n%2 == 0 and n>20:
+#     print("wired")     
